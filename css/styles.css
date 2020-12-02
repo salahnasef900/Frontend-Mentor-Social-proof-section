@@ -1,0 +1,18 @@
+body  {
+  background-image: url("file:///C:/Users/soft/Desktop/projects/social-proof-section-master/images/bg-pattern-bottom-desktop.svg");
+
+}
+.box-1{width: 30%;margin: 100px 0 100px 100px }
+h1{color:hsl(300, 43%, 22%);width: 50%}
+p{line-height: 2}
+.parag-1{width: 80%;color: grey;}
+.fr-t{width:30%;padding: 4px;background-color: hsl(300, 24%, 96%);position: absolute; right: 400px;bottom: 500px;border-radius: 10%;}
+.fr-t1{width:30%;padding: 4px;background-color: hsl(300, 24%, 96%);position: absolute; right: 360px;bottom: 450px;border-radius: 10%;}
+.fr-t2{width:30%;padding: 4px;background-color: hsl(300, 24%, 96%);position: absolute; right: 320px;bottom: 400px;border-radius: 10%;}
+.client-1{background-color:  hsl(300, 43%, 22%);width: 250px;position: absolute;left:100px;padding: 20px;border-radius: 10%;}
+.client-2{background-color:  hsl(300, 43%, 22%);width: 250px;position: absolute;left: 400px;top:450px;padding: 20px;border-radius: 10%;}
+.client-3{background-color:  hsl(300, 43%, 22%);width: 250px;position: absolute;left: 700px;top:470px;padding: 20px;border-radius: 10%;}
+.client-im{border-radius: 50%}
+.pragb{color: hsl(0, 0%, 100%)}
+.dos{color: hsl(333, 80%, 67%)}
+.attribution{position: relative;;top: 300px;}
