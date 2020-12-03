@@ -1,7 +1,4 @@
-body  {
-  background-image: url("images/bg-pattern-bottom-desktop.svg");
 
-}
 .box-1{width: 30%;margin: 100px 0 100px 100px }
 h1{color:hsl(300, 43%, 22%);width: 50%}
 p{line-height: 2}
